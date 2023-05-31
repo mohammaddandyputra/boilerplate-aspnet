@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gQETrHD6z87a/XgMV9weqgx8gkgFaHr1VP1uDvXMY5Y=",
+  "Source": "boilerplate-aspnet",
+  "BasePath": "_content/boilerplate-aspnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
